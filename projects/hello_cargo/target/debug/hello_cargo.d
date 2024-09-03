@@ -1,0 +1,1 @@
+/Users/mingus/Documents/yangming2962_github/Untitled/Rust_learning/projects/hello_cargo/target/debug/hello_cargo: /Users/mingus/Documents/yangming2962_github/Untitled/Rust_learning/projects/hello_cargo/src/main.rs
