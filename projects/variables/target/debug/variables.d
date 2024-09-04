@@ -1,0 +1,1 @@
+/Users/mingus/Documents/yangming2962_github/Untitled/Rust_learning/projects/variables/target/debug/variables: /Users/mingus/Documents/yangming2962_github/Untitled/Rust_learning/projects/variables/src/main.rs
